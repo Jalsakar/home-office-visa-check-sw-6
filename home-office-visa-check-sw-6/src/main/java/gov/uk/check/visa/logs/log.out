@@ -1,0 +1,132 @@
+2023-12-17 14:12:171 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:754 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:113 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (ee134dd65e1bef203ba6830ff204c0e7)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:82 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:581 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:956 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (ede3ed8e0af27eeddc081afb3ff7456d)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:49 INFO  SelectNationalityPage :35 - SelectingAustraliafrom drop down
+2023-12-17 14:12:378 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (ede3ed8e0af27eeddc081afb3ff7456d)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:430 INFO  ReasonForTravelPage :45 - Clicking on Tourism button
+2023-12-17 14:12:604 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (ede3ed8e0af27eeddc081afb3ff7456d)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:746 INFO  ResultPage :46 - Get text from [[ChromeDriver: chrome on windows (ede3ed8e0af27eeddc081afb3ff7456d)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-12-17 14:12:690 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:171 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:521 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (46d7aca22d8ced75cf48e2d7153ec6c7)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:608 INFO  SelectNationalityPage :35 - SelectingChilefrom drop down
+2023-12-17 14:12:879 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (46d7aca22d8ced75cf48e2d7153ec6c7)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:12 INFO  ReasonForTravelPage :51 - Clicking on Work, academic visit or business button
+2023-12-17 14:12:170 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (46d7aca22d8ced75cf48e2d7153ec6c7)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:293 INFO  DurationOfStayPage :46 - selecting more than six month radio button
+2023-12-17 14:12:546 INFO  DurationOfStayPage :60 - Clicking on Continue button[[ChromeDriver: chrome on windows (46d7aca22d8ced75cf48e2d7153ec6c7)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:672 INFO  WorkTypePage :35 - Clicking on [[ChromeDriver: chrome on windows (46d7aca22d8ced75cf48e2d7153ec6c7)] -> id: response-0] button
+2023-12-17 14:12:88 INFO  WorkTypePage :41 - Clicking on Continue button[[ChromeDriver: chrome on windows (46d7aca22d8ced75cf48e2d7153ec6c7)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:228 INFO  ResultPage :53 - Get text from [[ChromeDriver: chrome on windows (46d7aca22d8ced75cf48e2d7153ec6c7)] -> xpath: //h2[normalize-space()='You need a visa to work in health and care']]
+2023-12-17 14:12:43 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:536 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:985 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (be028f968afc43255a3c4f97333d23c3)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:71 INFO  SelectNationalityPage :35 - SelectingCambodiafrom drop down
+2023-12-17 14:12:319 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (be028f968afc43255a3c4f97333d23c3)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:447 INFO  ReasonForTravelPage :56 - Clicking on Join partner or family for a long stay button
+2023-12-17 14:12:608 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (be028f968afc43255a3c4f97333d23c3)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:737 INFO  FamilyImmigrationStatusPage :42 - Clicking on yes radio button
+2023-12-17 14:12:110 INFO  FamilyImmigrationStatusPage :56 - Clicking on Continue button[[ChromeDriver: chrome on windows (be028f968afc43255a3c4f97333d23c3)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:179 INFO  ResultPage :60 - Get text from Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='You need a visa to work in health and care']'
+2023-12-17 14:12:230 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:798 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:141 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (2cbe5904f0091f94f34e56ca041856eb)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:86 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:594 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:250 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (eb8a18b011fd40b1fb3a3663509e6305)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:359 INFO  SelectNationalityPage :35 - SelectingAustraliafrom drop down
+2023-12-17 14:12:749 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (eb8a18b011fd40b1fb3a3663509e6305)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:867 INFO  ReasonForTravelPage :45 - Clicking on Tourism button
+2023-12-17 14:12:30 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (eb8a18b011fd40b1fb3a3663509e6305)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:150 INFO  ResultPage :46 - Get text from [[ChromeDriver: chrome on windows (eb8a18b011fd40b1fb3a3663509e6305)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-12-17 14:12:989 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:466 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:818 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (f8b00766f2e483a06c9a97ffa2f3bc35)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:899 INFO  SelectNationalityPage :35 - SelectingChilefrom drop down
+2023-12-17 14:12:151 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (f8b00766f2e483a06c9a97ffa2f3bc35)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:274 INFO  ReasonForTravelPage :51 - Clicking on Work, academic visit or business button
+2023-12-17 14:12:425 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (f8b00766f2e483a06c9a97ffa2f3bc35)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:534 INFO  DurationOfStayPage :46 - selecting more than six month radio button
+2023-12-17 14:12:785 INFO  DurationOfStayPage :60 - Clicking on Continue button[[ChromeDriver: chrome on windows (f8b00766f2e483a06c9a97ffa2f3bc35)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:907 INFO  WorkTypePage :35 - Clicking on [[ChromeDriver: chrome on windows (f8b00766f2e483a06c9a97ffa2f3bc35)] -> id: response-0] button
+2023-12-17 14:12:216 INFO  WorkTypePage :41 - Clicking on Continue button[[ChromeDriver: chrome on windows (f8b00766f2e483a06c9a97ffa2f3bc35)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:337 INFO  ResultPage :53 - Get text from [[ChromeDriver: chrome on windows (f8b00766f2e483a06c9a97ffa2f3bc35)] -> xpath: //h2[normalize-space()='You need a visa to work in health and care']]
+2023-12-17 14:12:214 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 14:12:699 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 14:12:63 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (fedfefd48f21e73168c0d13b549858ed)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 14:12:143 INFO  SelectNationalityPage :35 - SelectingCambodiafrom drop down
+2023-12-17 14:12:475 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (fedfefd48f21e73168c0d13b549858ed)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:519 INFO  ReasonForTravelPage :56 - Clicking on Join partner or family for a long stay button
+2023-12-17 14:12:797 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (fedfefd48f21e73168c0d13b549858ed)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:836 INFO  FamilyImmigrationStatusPage :42 - Clicking on yes radio button
+2023-12-17 14:12:205 INFO  FamilyImmigrationStatusPage :56 - Clicking on Continue button[[ChromeDriver: chrome on windows (fedfefd48f21e73168c0d13b549858ed)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 14:12:290 INFO  ResultPage :60 - Get text from Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='You need a visa to work in health and care']'
+2023-12-17 15:12:391 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:286 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:858 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (68935ec37d3bdf983fd9f01c02f82625)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:210 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:972 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:512 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (f376843ba7e475afc3ccb1dd0ef1a9ad)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:760 INFO  SelectNationalityPage :35 - SelectingAustraliafrom drop down
+2023-12-17 15:12:88 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (f376843ba7e475afc3ccb1dd0ef1a9ad)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:343 INFO  ReasonForTravelPage :45 - Clicking on Tourism button
+2023-12-17 15:12:812 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (f376843ba7e475afc3ccb1dd0ef1a9ad)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:862 INFO  ResultPage :46 - Get text from [[ChromeDriver: chrome on windows (f376843ba7e475afc3ccb1dd0ef1a9ad)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-12-17 15:12:132 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:799 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:262 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (fe54ff2bee017b406b3173a3ec363b59)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:434 INFO  SelectNationalityPage :35 - SelectingChilefrom drop down
+2023-12-17 15:12:784 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (fe54ff2bee017b406b3173a3ec363b59)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:06 INFO  ReasonForTravelPage :51 - Clicking on Work, academic visit or business button
+2023-12-17 15:12:218 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (fe54ff2bee017b406b3173a3ec363b59)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:469 INFO  DurationOfStayPage :46 - selecting more than six month radio button
+2023-12-17 15:12:775 INFO  DurationOfStayPage :60 - Clicking on Continue button[[ChromeDriver: chrome on windows (fe54ff2bee017b406b3173a3ec363b59)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:981 INFO  WorkTypePage :35 - Clicking on [[ChromeDriver: chrome on windows (fe54ff2bee017b406b3173a3ec363b59)] -> id: response-0] button
+2023-12-17 15:12:393 INFO  WorkTypePage :41 - Clicking on Continue button[[ChromeDriver: chrome on windows (fe54ff2bee017b406b3173a3ec363b59)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:599 INFO  ResultPage :53 - Get text from [[ChromeDriver: chrome on windows (fe54ff2bee017b406b3173a3ec363b59)] -> xpath: //h2[normalize-space()='You need a visa to work in health and care']]
+2023-12-17 15:12:835 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:533 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:18 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (cf8bae39de4261311cd050ae6e880939)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:176 INFO  SelectNationalityPage :35 - SelectingCambodiafrom drop down
+2023-12-17 15:12:627 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (cf8bae39de4261311cd050ae6e880939)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:744 INFO  ReasonForTravelPage :56 - Clicking on Join partner or family for a long stay button
+2023-12-17 15:12:41 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (cf8bae39de4261311cd050ae6e880939)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:338 INFO  FamilyImmigrationStatusPage :42 - Clicking on yes radio button
+2023-12-17 15:12:654 INFO  FamilyImmigrationStatusPage :56 - Clicking on Continue button[[ChromeDriver: chrome on windows (cf8bae39de4261311cd050ae6e880939)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:869 INFO  ResultPage :60 - Get text from Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='You need a visa to work in health and care']'
+2023-12-17 15:12:05 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:794 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:320 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (48a416e0ff99842dd11ab2f83536643a)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:663 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:366 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:852 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (69d8131380bbce68fb6fea4c37163ad7)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:25 INFO  SelectNationalityPage :35 - SelectingAustraliafrom drop down
+2023-12-17 15:12:348 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (69d8131380bbce68fb6fea4c37163ad7)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:571 INFO  ReasonForTravelPage :45 - Clicking on Tourism button
+2023-12-17 15:12:824 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (69d8131380bbce68fb6fea4c37163ad7)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:50 INFO  ResultPage :46 - Get text from [[ChromeDriver: chrome on windows (69d8131380bbce68fb6fea4c37163ad7)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-12-17 15:12:449 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:194 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:706 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (8eb7e15ffbd54f9c5f88c82f23a05cb6)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:923 INFO  SelectNationalityPage :35 - SelectingChilefrom drop down
+2023-12-17 15:12:248 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (8eb7e15ffbd54f9c5f88c82f23a05cb6)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:510 INFO  ReasonForTravelPage :51 - Clicking on Work, academic visit or business button
+2023-12-17 15:12:833 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (8eb7e15ffbd54f9c5f88c82f23a05cb6)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:60 INFO  DurationOfStayPage :46 - selecting more than six month radio button
+2023-12-17 15:12:378 INFO  DurationOfStayPage :60 - Clicking on Continue button[[ChromeDriver: chrome on windows (8eb7e15ffbd54f9c5f88c82f23a05cb6)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:628 INFO  WorkTypePage :35 - Clicking on [[ChromeDriver: chrome on windows (8eb7e15ffbd54f9c5f88c82f23a05cb6)] -> id: response-0] button
+2023-12-17 15:12:962 INFO  WorkTypePage :41 - Clicking on Continue button[[ChromeDriver: chrome on windows (8eb7e15ffbd54f9c5f88c82f23a05cb6)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:217 INFO  ResultPage :53 - Get text from [[ChromeDriver: chrome on windows (8eb7e15ffbd54f9c5f88c82f23a05cb6)] -> xpath: //h2[normalize-space()='You need a visa to work in health and care']]
+2023-12-17 15:12:500 INFO  ManageBrowser :30 - Launching Chrome Browser.....
+2023-12-17 15:12:278 INFO  StartPage :33 - Clicking on Accept All Cookie button
+2023-12-17 15:12:756 INFO  StartPage :39 - Clicking on StartNow button[[ChromeDriver: chrome on windows (a280685a7b827afdc28ef3fe74a21375)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-17 15:12:938 INFO  SelectNationalityPage :35 - SelectingCambodiafrom drop down
+2023-12-17 15:12:232 INFO  SelectNationalityPage :40 - Clicking on Continue button[[ChromeDriver: chrome on windows (a280685a7b827afdc28ef3fe74a21375)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:476 INFO  ReasonForTravelPage :56 - Clicking on Join partner or family for a long stay button
+2023-12-17 15:12:728 INFO  ReasonForTravelPage :62 - Clicking on Continue button[[ChromeDriver: chrome on windows (a280685a7b827afdc28ef3fe74a21375)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:960 INFO  FamilyImmigrationStatusPage :42 - Clicking on yes radio button
+2023-12-17 15:12:248 INFO  FamilyImmigrationStatusPage :56 - Clicking on Continue button[[ChromeDriver: chrome on windows (a280685a7b827afdc28ef3fe74a21375)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 15:12:493 INFO  ResultPage :60 - Get text from Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='You need a visa to work in health and care']'
